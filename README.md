@@ -65,6 +65,13 @@ The Ridge Regression model was selected as the final model due to its performanc
 ## Results
 The Ridge Regression model achieved the best performance, with an RMSE of `XX` and an R-squared value of `YY`. The model was able to predict fire estimation with high accuracy, especially during the critical fire-prone months.
 
+## Screenshots
+
+Here’s a screenshot of the application:
+
+![Data Filling image](images/screenshot1.png)
+
+
 ## Technologies Used
 - Python
 - Pandas
