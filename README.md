@@ -10,6 +10,7 @@ This project aims to predict fire occurrences in the forests of Algeria based on
 - [Modeling](#modeling)
 - [Pickle Files](#pickle-files)
 - [Results](#results)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
