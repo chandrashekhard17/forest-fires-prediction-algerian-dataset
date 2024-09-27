@@ -69,7 +69,7 @@ The Ridge Regression model achieved the best performance, with an RMSE of `XX` a
 
 Here’s a screenshot of the application:
 
-![Data Filling image](images/screenshot1.png)
+![prediction page]([images/screenshot1.png](https://github.com/chandrashekhard17/forest-fires-prediction-algerian-dataset/blob/main/screenshots/Screenshot%20(189).png))
 
 
 ## Technologies Used
