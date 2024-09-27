@@ -94,6 +94,10 @@ To install and run this project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+3. Running the Application
+    ```bash
+    python application.py
+    ```
 
 ## Contributors
 - [Chandrashekhar D](https://github.com/chandrashekhard17)
