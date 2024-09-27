@@ -86,3 +86,8 @@ To install and run this project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+
+## Contributors
+- [Chandrashekhar D](https://github.com/chandrashekhard17)
+
+
